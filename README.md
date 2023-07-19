@@ -1,5 +1,6 @@
 # List It Down 📝
-![image](https://github.com/srishti666/To-Do-list-app/assets/85846340/9d6c1c14-28f0-49d0-b1c4-18c45d0b185c)
+![image](https://github.com/srishti666/List-It-Down/assets/85846340/7e3aa7fc-6050-47b6-9d75-b6b8526ae172)
+
 
 ### Try the app : [Click here](https://list-it-down-srishti.netlify.app/)
 
